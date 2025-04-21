@@ -1,0 +1,2 @@
+#경로 정확히 입력하고 install
+C:\Users\user\AppData\Local\Programs\Python\Python39\python.exe -m pip install numpy --user
